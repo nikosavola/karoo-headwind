@@ -14,7 +14,7 @@ mapboxSdkTurf = "7.3.1"
 junit = "4.13.2"
 robolectric = "4.17"
 androidxTestCore = "1.7.0"
-karooExtTesting = "0.1.0"
+karooExtTesting = "0.1.1"
 kotlinxCoroutines = "1.10.2"
 
 [plugins]
